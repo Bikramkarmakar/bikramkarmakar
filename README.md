@@ -86,10 +86,29 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&show_icons=true&locale=en" alt="bikramkarmakar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&" alt="bikramkarmakar" /></p>
-<p align="center">
-  <img src="https://wallpapercave.com/wp/wp9500685.jpg" title="Task Force 141">
-</p>
+
   
+ 
+  
+  
+  
+  
+  
+  ## 🔥 Github Stats
+
+
+
+  <a href="https://github.com/bikramkarmakar"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&theme=radical&title_color=ff3068"></a>
+  <a href="https://github.com/bikramkarmakar"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  
+  
+  
+  
+  
+  
+  
+  
+ 
   
   
   
@@ -131,12 +150,7 @@
 
 
 
-## 🔥 Github Stats
 
-
-
-  <a href="https://github.com/bikramkarmakar"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&theme=radical&title_color=ff3068"></a>
-  <a href="https://github.com/bikramkarmakar"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 ## 📘 My top open source projects
 
@@ -277,6 +291,10 @@
  <div>
 <details>
   <summary>🧑 More about me</summary>
+  <p align="center">
+  <img src="https://wallpapercave.com/wp/wp9500685.jpg" title="Task Force 141">
+</p>
+  
 
   
 
