@@ -76,7 +76,7 @@
 <a href="https://auth.geeksforgeeks.org/user/bikramkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/bikramkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" /></a>
 <a href="https://discord.gg/bikramkarmakar#8261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-<a href="/"/bikramkarmakar/bikramkarmakar/blob/main/rss feed"" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss feed" height="30" width="40" /></a>
+
 
 </p>
 
@@ -92,8 +92,16 @@
   
   
   
+ 
+ <div>
+<details>
+  <summary>🧑 More about me</summary>
+  <p align="center">
+  <img src="https://wallpapercave.com/wp/wp9500685.jpg" title="Task Force 141">
+</p>
   
-  
+
+<a href="/"/bikramkarmakar/bikramkarmakar/blob/main/rss feed"" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss feed" height="30" width="40" /></a>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramkarmakar&label=Profile%20views&lcolor=640464&style=for-the-badge&color=7c007c&logo=AngelList&logoColor=white" alt="bikramkarmakar" /> </p>
 <p align="left"> <a href="https://twitter.com/bikram_is_here" target="blank"><img src="https://img.shields.io/twitter/follow/bikram_is_here?logo=twitter&style=for-the-badge" alt="bikram_is_here" /></a> </p>
@@ -103,78 +111,8 @@
  </p>
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikramkarmakar" alt="bikramkarmakar" /></a> </p>
 
-  
-  
-  
-  
-  
 
-
-
-
-
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
-
-
-
-  
- 
-  
-  
-  
-  
-  
-
-
-
-
- 
-
-  
-  
-  
-  
-  
-  
-  
-  
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-<p align="center">
+  <p align="center">
   <a href="https://wallpapercave.com/wp/wp7114991.png"/></a>
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -193,6 +131,77 @@
 
 <p>
   
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+
+  
+ 
+  
+  
+  
+  
+  
+
+
+
+
+ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
 
 
 
@@ -315,14 +324,6 @@
  
  
  
- <div>
-<details>
-  <summary>🧑 More about me</summary>
-  <p align="center">
-  <img src="https://wallpapercave.com/wp/wp9500685.jpg" title="Task Force 141">
-</p>
-  
-
   
 
 
