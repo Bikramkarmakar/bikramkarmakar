@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 Reach me out at **<a href="https://api.whatsapp.com/send?phone=918670860718" target="blank"><img align="center" src="whatsapp-logo-png-2268.png" alt="Whatsapp Logo" height="30" width="40" /></a>**
+- 📫 Reach me out at **<a href="https://api.whatsapp.com/send?phone=918670860718" target="blank"><img align="center" src="WhatsApp-icon-PNG.png" alt="Whatsapp Logo" height="30" width="40" /></a>**
 
 - ⚡ Fun fact **Tigers Are Cats**
   
