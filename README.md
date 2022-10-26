@@ -92,39 +92,32 @@
   
   
   
-  
+   ## 🔥 Github Stats 
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikramkarmakar&show_icons=true&locale=en&layout=compact" alt="bikramkarmakar" /></p>
-
-
-  
-  
-  
-  
 <p>
   <a href="https://github.com/bikramkarmakar"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&theme=radical&show_icons=true&locale=en&title_color=ff3068"></a>
 </p>  
-  
-   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&show_icons=true&locale=en" alt="bikramkarmakar" /></p>
-
-
-
-  
- 
-  
-  
-  
-  
-  
-  ## 🔥 Github Stats
-
-
-
- 
 <p>
   <a href="https://github.com/bikramkarmakar"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </p>
+   
+
+
+
+  
+ 
+  
+  
+  
+  
+  
+
+
+
+
+ 
+
   
   
   
