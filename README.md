@@ -4,14 +4,8 @@
   <img src="Business Profile Photo.jpg" title="Profile Picture">
 </p>
 
-
-
-
-
-
-
-
 <h3 align="left"><h3 align="center">
+ <h1 align="center">🚀 About Me</h1>
 🎓 I am Bikram Karmakar, a Polytechnic Diploma Student (specializing in Computer Science) and will graduate in mid-2023.
 
 👨‍💻 I enjoy contributing to Open Source Projects and have interest in solo or Group Coding Projects to build and implement new ideas.I am really enthusiastic about learning new technology. I have learned Java , My SQL , Python , HTML , C , C++. I love to network, join new communities and add value. I got started with Freelancing and Blogging quite recently and trying to make it count.
