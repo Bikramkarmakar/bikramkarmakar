@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bikram Karmakar</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
+<p align="center">
+  <img src="https://drive.google.com/file/d/1e7g4LnpIDHV9yOsJL2PJIuqu7ZAAxXVQ/view?usp=sharing" title="Profile Picture">
+</p>
 
 
 
