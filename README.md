@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bikram Karmakar</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
+<h3 align="left"><h3 align="center">
+🎓 I am Bikram Karmakar, a Polytechnic Diploma Student (specializing in Computer Science) and will graduate in mid-2023.
+
+👨‍💻 I enjoy contributing to Open Source Projects and have interest in solo or Group Coding Projects to build and implement new ideas.I am really enthusiastic about learning new technology. I have learned Java , My SQL , Python , HTML , C , C++. I got started with Freelancing and Blogging quite recently and trying to make it count.
+
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from listening to music, break dancing (hip-hop), sketching, and touch typing to some whacky ones like writing with my left hand.
+
+📚 I also love reading books on personal development & financial literacy. My favorite ones are The Compound Effect by Darren Hardy in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
+
+✈️ I love traveling too. I have been on solo trips to Bhutan in 2018 and to Hyderabad, India in 2021.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramkarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="bikramkarmakar" /> </p>
 
