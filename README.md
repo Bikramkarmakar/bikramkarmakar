@@ -9,7 +9,7 @@
 
 📚 I also love reading books on personal development & financial literacy. My favorite ones are The Compound Effect by Darren Hardy in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
-✈️ I love traveling too. I have been on solo trips to Bhutan in 2018 and to Hyderabad, India in 2021.</h3>
+✈️ I love traveling too. I have been on many solo trips around many cities and villages of West Bengal in my free time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramkarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="bikramkarmakar" /> </p>
 
