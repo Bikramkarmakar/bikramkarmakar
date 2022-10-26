@@ -19,40 +19,20 @@
 
 ✈️ I love traveling too. I have been on many solo trips around many cities and villages of West Bengal in my free time.</h3>
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramkarmakar&label=Profile%20views&lcolor=640464&style=for-the-badge&color=7c007c&logo=AngelList&logoColor=white" alt="bikramkarmakar" /> </p>
-  <a href="https://github.com/bikramkarmakar">
-  <p>  <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=bikramkarmakar"/></a></p>
-
-
-
-
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikramkarmakar" alt="bikramkarmakar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bikram_is_here" target="blank"><img src="https://img.shields.io/twitter/follow/bikram_is_here?logo=twitter&style=for-the-badge" alt="bikram_is_here" /></a> </p>
-  
-  
-  
-  
-  
 <p>    
   <a href="https://github.com/bikramkarmakar?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bikramkarmakar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
- 
-</p>
+ </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikramkarmakar" alt="bikramkarmakar" /></a> </p>
+
+  
+  
+  
+  
+  
+
 
 
 
