@@ -81,11 +81,34 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bikramkarmakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bikramkarmakar" /></a><a href="https://ko-fi.com/bikramkarmakar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bvhvhvkh" /></a></p><br><br>
 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikramkarmakar&show_icons=true&locale=en&layout=compact" alt="bikramkarmakar" /></p>
 
+
+  
+  
+  
+  
+<p>
+  <a href="https://github.com/bikramkarmakar"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&theme=radical&show_icons=true&locale=en&title_color=ff3068"></a>
+</p>  
+  
+   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&show_icons=true&locale=en" alt="bikramkarmakar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&" alt="bikramkarmakar" /></p>
+
 
   
  
@@ -98,8 +121,10 @@
 
 
 
-  <a href="https://github.com/bikramkarmakar"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&theme=radical&title_color=ff3068"></a>
+ 
+<p>
   <a href="https://github.com/bikramkarmakar"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+</p>
   
   
   
@@ -152,20 +177,7 @@
 
 
 
-## 📘 My top open source projects
 
-<p align="left">
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/DBM-Extended"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DBM-Extended&repo=mods&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-<p align="right">
-  <a href="https://top.gg/bot/623481583411658753">
-    <img alt="nezuko bot" title="Check out Nezuko" src="https://custom-icon-badges.herokuapp.com/badge/Add%20Nezuko-D15E9B.svg?color=%23E05D44&label=Bot&logo=sdfdfsd&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-    
     
     
     
