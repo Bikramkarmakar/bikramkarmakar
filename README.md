@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bikram Karmakar</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
-<p align="center">
-  <img src="https://wallpapercave.com/wp/wp9500685.jpg" title="Task Force 141">
-</p>
+
+
+
+
+
+
+
+
 <h3 align="left"><h3 align="center">
 🎓 I am Bikram Karmakar, a Polytechnic Diploma Student (specializing in Computer Science) and will graduate in mid-2023.
 
@@ -81,6 +86,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&show_icons=true&locale=en" alt="bikramkarmakar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&" alt="bikramkarmakar" /></p>
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp9500685.jpg" title="Task Force 141">
+</p>
   
   
   
@@ -121,18 +129,7 @@
   
 
 
-<div>
-<details>
-  <summary>🧑 More about me</summary>
 
-  
-<!--
-<details>
-  <summary>📕 Blog Posts</summary>
-  <br />
-</details>
-</div>
--->
 
 ## 🔥 Github Stats
 
@@ -172,7 +169,118 @@
 
   
   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <div>
+<details>
+  <summary>🧑 More about me</summary>
+
   
+
+
   
   
   
