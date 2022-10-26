@@ -16,7 +16,7 @@
 
 ✈️ I love traveling too. I have been on many solo trips around many cities and villages of West Bengal in my free time.</h3>
   
-- 🔭 I’m currently working on [project1](link of project)
+- 🔭 I’m currently working on Mini Projects.
 
 - 🌱 I’m currently learning **everything** 🤓
 
@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 Reach me out at **<a href="https://api.whatsapp.com/send?phone=918670860718" target="blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg" alt="@hashnode" height="30" width="40" /></a>**
+- 📫 Reach me out at **<a href="https://api.whatsapp.com/send?phone=918670860718" target="blank"><img align="center" src="whatsapp-logo-png-2268.png" alt="Whatsapp Logo" height="30" width="40" /></a>**
 
 - ⚡ Fun fact **Tigers Are Cats**
   
