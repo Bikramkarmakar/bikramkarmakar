@@ -22,23 +22,21 @@
 
 - 🔭 I’m currently working on [project1](link of project)
 
-- 🌱 I’m currently learning **fewfefwfwe**
+- 🌱 I’m currently learning **everything** 🤓
 
-- 👯 I’m looking to collaborate on [geggw](wgwegwegew)
+- 👯 I’m looking to collaborate on **Interesting Projects**
 
-- 🤝 I’m looking for help with [fffwfwef](ewffewfew)
+- 🤝 I’m looking for People to collaborate.
 
-- 👨‍💻 All of my projects are available at [bjbjvj](bjbjvj)
+- 👨‍💻 All of my projects are available at **My Github Profile**
 
-- 📝 I regularly write articles on [mj jbj](mj jbj)
+- 📝 I regularly write articles on
 
-- 💬 Ask me about **gww**
+- 💬 Ask me about **Anything**
 
-- 📫 How to reach me **efwewgwr**
+- 📫 Reach me out at **<a href="https://api.whatsapp.com/send?phone=918670860718" target="blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg" alt="@hashnode" height="30" width="40" /></a>**
 
-- 📄 Know about my experiences [ghuuhvj](ghuuhvj)
-
-- ⚡ Fun fact **vvuguj**
+- ⚡ Fun fact **Tigers Are Cats**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -69,7 +67,7 @@
 <a href="https://www.topcoder.com/members/bikramkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" /></a>
 <a href="https://discord.gg/bikramkarmakar#8261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 <a href="/"/bikramkarmakar/bikramkarmakar/blob/main/rss feed"" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss feed" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=918670860718" target="blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg" alt="@hashnode" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -121,27 +119,12 @@
 
 <p>
   
-Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and community manager. I specialise in Web Development, JavaScript and Design.✨
+
 
 <div>
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m currently on a journey to build **great** things
-
-- 🌱 I’m currently learning **everything** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-- 👨‍💻 All of my projects are available at [miaxu.co](https://miaxu.co)
-
-- 💬 Ask me about **open source, web development, and community management**
-
-- 📫 Reach me out at **contact@miaxu.co**
-
-</details>
-  
-</p>
   
 <!--
 <details>
