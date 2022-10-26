@@ -6,7 +6,7 @@
 <h3 align="left"><h3 align="center">
 🎓 I am Bikram Karmakar, a Polytechnic Diploma Student (specializing in Computer Science) and will graduate in mid-2023.
 
-👨‍💻 I enjoy contributing to Open Source Projects and have interest in solo or Group Coding Projects to build and implement new ideas.I am really enthusiastic about learning new technology. I have learned Java , My SQL , Python , HTML , C , C++. I got started with Freelancing and Blogging quite recently and trying to make it count.
+👨‍💻 I enjoy contributing to Open Source Projects and have interest in solo or Group Coding Projects to build and implement new ideas.I am really enthusiastic about learning new technology. I have learned Java , My SQL , Python , HTML , C , C++. I love to network, join new communities and add value. I got started with Freelancing and Blogging quite recently and trying to make it count.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from listening to music, break dancing (hip-hop), sketching, and touch typing to some whacky ones like writing with my left hand.
 
@@ -121,7 +121,7 @@
 
 <p>
   
-Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and community manager. I specialise in Web Development, JavaScript and Design.✨
 
 <div>
 <details>
@@ -153,7 +153,7 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and 
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+
 
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
