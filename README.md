@@ -161,7 +161,7 @@
   
   
   
- <h3>Watch a snake-eating🐍 my contribution graph on Github</h3> 
+ <h3 align = "center"> Watch a snake-eating🐍 my contribution graph on Github </h3> 
   
   
  ![Snake animation](https://github.com/Bikramkarmakar/bikramkarmakar/blob/output/github-contribution-grid-snake.svg)
