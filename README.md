@@ -41,21 +41,16 @@
   ## 🔥 Github Stats 
   
 <p><img align="left" img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikramkarmakar&layout=compact&show_icons=true&locale=en" alt="bikramkarmakar" /></p>
-
-
-  
-  
-  
- <p> 
-  <a href="https://github.com/bikramkarmakar"><img align="left" img width="49%" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&theme=radical&show_icons=true&locale=en&title_color=ff3068"></a>
-  <a href="https://github.com/bikramkarmakar"><img align="right" img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<p> 
+  <a href="https://github.com/bikramkarmakar"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&theme=radical&show_icons=true&locale=en&title_color=ff3068"></a>
+  <a href="https://github.com/bikramkarmakar"><img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </p>
 
 
-  
-  ## ☎️ Connect With Me  
 
-<h3 align="left">Connect with me:</h3>
+  
+
+<h3 align="left">☎️Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bikramkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
 <a href="https://dev.to/bikramkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
@@ -82,8 +77,8 @@
 </p>
 
 
-  ## 🤝 Support  
-<h3 align="left">Support:</h3>
+ 
+<h3 align="left"> 🤝Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bikramkarmakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bikramkarmakar" /></a><a href="https://ko-fi.com/bikramkarmakar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bvhvhvkh" /></a></p><br><br>
 
   
