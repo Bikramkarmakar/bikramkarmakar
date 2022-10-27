@@ -96,8 +96,7 @@
  
 <h3 align="left"> 🤝Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bikramkarmakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bikramkarmakar" /></a>
-  &nbsp;
-  &nbsp;
+  
   <a href="https://ko-fi.com/bikramkarmakar"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" /></a>
 </p>
 <br><br>
@@ -106,17 +105,20 @@
   <p align="center">
   <img src="https://wallpapercave.com/wp/wp9500685.jpg" title="Task Force 141">
 </p>
-  
-
-
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramkarmakar&label=Profile%20views&lcolor=640464&style=for-the-badge&color=7c007c&logo=AngelList&logoColor=white" alt="bikramkarmakar" /> </p>
-
-<p align="right">    
-  <a href="https://github.com/bikramkarmakar?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bikramkarmakar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
- </p>
+##🏆<h3>Hall of Fame</h3> 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikramkarmakar&theme=dark_lover&no-bg=true&margin-w=45&column=-1" alt="bikramkarmakar" /></a> </p>
+
+  
+
+
+  <div class='container'>
+<div align="left"> <img align="left" style="height: auto; width: 15%;" src="https://komarev.com/ghpvc/?username=bikramkarmakar&label=Profile%20views&lcolor=640464&style=for-the-badge&color=7c007c&logo=AngelList&logoColor=white" alt="bikramkarmakar" /> </div>
+
+<div align="right">    
+  <a href="https://github.com/bikramkarmakar?tab=followers">
+    <img align="right" style="height: auto; width: 15%;" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bikramkarmakar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a></div>
+    </div>
+  
 
   
   
@@ -163,10 +165,10 @@
   
   
   
-  <p align="right">
-<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="surprise.jpg" alt="Surprise" height="80" width="90" /></a>
-   <details>
+ <br>   <details>
   <summary>🧑 More about me</summary>
+      <p align="right">
+<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="surprise.jpg" alt="Surprise" height="80" width="90" /></a>
 
  
 
