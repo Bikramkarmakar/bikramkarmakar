@@ -14,27 +14,32 @@
 
 📚 I also love reading books on personal development & financial literacy. My favorite ones are The Compound Effect by Darren Hardy in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
-✈️ I love traveling too. I have been on many solo trips around many cities and villages of West Bengal in my free time.</h3>
- 
+✈️ I love traveling too. I have been on many solo trips around many cities and villages of West Bengal in my free time.</h3> 
  &nbsp; 
-<img width = "50%" align = "right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" title="Coding Gif">
-- 🔭 I’m currently working on Mini Projects.
-
-- 🌱 I’m currently learning **everything** 🤓
+ ____________________________________________________________________________________________________________________________________________________________________
+   <img width = "50%" align = "right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" title="Coding Gif">
+  
+  - 🔭 I’m currently working on Mini Projects  and small developement works.
+  
+- 🌱 I’m currently learning from **everything** 🤓
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
 - 🤝 I’m looking for People to collaborate.
 
+  
+  
 - 👨‍💻 All of my projects are available at **My Github Profile**
 
-- 📝 I regularly write articles on
+- 📝 I regularly write articles on My Blog.
 
 - 💬 Ask me about **Anything**
 
 - 📫 Reach me out at <a href="https://api.whatsapp.com/send?phone=918670860718" target="blank"><img height = "auto" width = "4%" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png"></a>
+  
 
-&nbsp;
+    
+
   <h3 align="left">Top Github Repositories:</h3>
  <a href="https://github.com/bikramkarmakar/Initial-Python-Programs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikramkarmakar&repo=Initial-Python-Programs" />
