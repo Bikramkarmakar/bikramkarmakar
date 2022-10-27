@@ -33,6 +33,7 @@
 - 📫 Reach me out at **<a href="https://api.whatsapp.com/send?phone=918670860718" target="blank"><img align="center" src="WhatsApp-icon-PNG.png" alt="Whatsapp Logo" height="30" width="40" /></a>**
 
 - ⚡ Fun fact **Tigers Are Cats**
+  <h3 align="left">Top Github Repositories:</h3>
  <a href="https://github.com/bikramkarmakar/Initial-Python-Programs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikramkarmakar&repo=Initial-Python-Programs" />
 </a>
