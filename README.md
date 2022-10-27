@@ -224,7 +224,15 @@
   
   
   
-  
+  <table>
+<tr>
+<td><img align="" width="" alt="Cat 1" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fmusic&psig=AOvVaw0R0m21Igc1o8Gpkzel7mmv&ust=1666968968950000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJiK1cHVgPsCFQAAAAAdAAAAABAK"></td>
+<td><img align="right" width="25%" alt="Cat 2" src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif"></td>
+</tr>
+</table>
+
+
+
   
   
   
