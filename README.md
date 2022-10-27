@@ -105,20 +105,19 @@
   <p align="center">
   <img src="https://wallpapercave.com/wp/wp9500685.jpg" title="Task Force 141">
 </p>
-##🏆<h3>Hall of Fame</h3> 
+<h3 align = "center"> 🏆 Hall of Fame </h3>
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikramkarmakar&theme=dark_lover&no-bg=true&margin-w=45&column=-1" alt="bikramkarmakar" /></a> </p>
 
   
 
 
-  <div class='container'>
-<div align="left"> <img align="left" style="height: auto; width: 15%;" src="https://komarev.com/ghpvc/?username=bikramkarmakar&label=Profile%20views&lcolor=640464&style=for-the-badge&color=7c007c&logo=AngelList&logoColor=white" alt="bikramkarmakar" /> </div>
-
-<div align="right">    
-  <a href="https://github.com/bikramkarmakar?tab=followers">
-    <img align="right" style="height: auto; width: 15%;" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bikramkarmakar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a></div>
-    </div>
   
+ <img align="left" style="height: auto; width: 15%;" src="https://komarev.com/ghpvc/?username=bikramkarmakar&label=Profile%20views&lcolor=640464&style=for-the-badge&color=7c007c&logo=AngelList&logoColor=white" alt="bikramkarmakar" /> 
+
+   
+  <a href="https://github.com/bikramkarmakar?tab=followers">
+    <img align="right" style="height: auto; width: 15%;" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bikramkarmakar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   
 
   
   
