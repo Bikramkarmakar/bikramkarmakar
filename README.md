@@ -133,13 +133,15 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->  
   
-<a href="https://github.com/bikramkarmakar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/bikramkarmakar/Initial-Python-Programs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikramkarmakar&repo=Initial-Python-Programs" />
 </a>
-<a href="https://github.com/bikramkarmakar/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/bikramkarmakar/bikramkarmakar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikramkarmakar&repo=bikramkarmakar" />
 </a>  
-  
+<a href="https://github.com/bikramkarmakar/Initial-C-programs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikramkarmakar&repo=Initial-C-programs" />
+</a>
   
 
 
