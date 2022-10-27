@@ -217,7 +217,7 @@
   
 
   
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n3pzgkbfdixat5qcpourkr6qkm&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
   
   
