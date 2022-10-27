@@ -174,7 +174,7 @@
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="surprise.jpg" alt="Surprise" height="80" width="90" /></a>
 
 
-<a href="https://open.spotify.com/user/31n3pzgkbfdixat5qcpourkr6qkm" target="blank"><img align="center" src="https://dribbble.com/shots/3165191-Spotify-Animated-Logo-Animation-Mnemonic/attachments/9681888?mode=media" alt="spotify" height="50" width="60" /></a>
+<a href="https://open.spotify.com/user/31n3pzgkbfdixat5qcpourkr6qkm" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logaster.com%2Fblog%2Fhow-to-create-animated-gif-in-photoshop%2F&psig=AOvVaw3gHQGZOQdEDePud1t06REB&ust=1666950575925000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMCN4_qQgPsCFQAAAAAdAAAAABAI" alt="spotify" height="50" width="60" /></a>
 
 
  
