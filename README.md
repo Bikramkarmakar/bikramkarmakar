@@ -111,7 +111,7 @@
   <a href="https://github.com/bikramkarmakar?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bikramkarmakar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  </p>
-<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikramkarmakar&column=-1" alt="bikramkarmakar" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=monokai&margin-w=15"><img src="https://github-profile-trophy.vercel.app/?username=bikramkarmakar&column=-1" alt="bikramkarmakar" /></a> </p>
 
   
   
