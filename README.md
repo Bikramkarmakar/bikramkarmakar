@@ -110,13 +110,7 @@
 
 
  
-<h3 align="left"> 🤝Support:</h3>
-<p><a href="https://www.buymeacoffee.com/bikramkarmakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bikramkarmakar" /></a>
-  
-  <a href="https://ko-fi.com/bikramkarmakar"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" /></a>
-</p>
-<br><br>
- <div>
+
   &nbsp;
   
 
@@ -183,7 +177,19 @@
   
  ![Snake animation](https://github.com/Bikramkarmakar/bikramkarmakar/blob/output/github-contribution-grid-snake.svg)
  
- <br>   <details>
+
+
+
+
+<h3 align="left"> 🤝Support:</h3>
+<p><a href="https://www.buymeacoffee.com/bikramkarmakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bikramkarmakar" /></a>
+  
+  <a href="https://ko-fi.com/bikramkarmakar"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" /></a>
+</p>
+<br><br>
+ <div>
+
+<br>   <details>
   <summary><h3 align = "center"> ❓</h3> </summary>
       <p align="center">
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="surprise.jpg" alt="Surprise" height="80" width="90" /></a>
