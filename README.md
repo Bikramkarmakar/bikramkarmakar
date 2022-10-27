@@ -95,21 +95,9 @@
 
  
 <h3 align="left"> 🤝Support:</h3>
-<p><a href="https://www.buymeacoffee.com/bikramkarmakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bikramkarmakar" /></a><a href="https://ko-fi.com/bikramkarmakar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bvhvhvkh" /></a></p><br><br>
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
+<p><a href="https://www.buymeacoffee.com/bikramkarmakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bikramkarmakar" /></a><a href="https://ko-fi.com/bikramkarmakar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" /></a></p><br><br>
  <div>
-<details>
-  <summary>🧑 More about me</summary>
+
   <p align="center">
   <img src="https://wallpapercave.com/wp/wp9500685.jpg" title="Task Force 141">
 </p>
@@ -125,6 +113,9 @@
  </p>
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikramkarmakar" alt="bikramkarmakar" /></a> </p>
 
+  
+  <details>
+  <summary>🧑 More about me</summary>
 
  
 
