@@ -114,6 +114,35 @@
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikramkarmakar" alt="bikramkarmakar" /></a> </p>
 
   
+  
+  
+  
+  <p align="right">
+<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Surprise" height="30" width="40" /></a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <details>
   <summary>🧑 More about me</summary>
 
