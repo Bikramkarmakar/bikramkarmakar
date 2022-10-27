@@ -161,16 +161,16 @@
   
   
   
+ <h3>Watch a snake-eating🐍 my contribution graph on Github</h3> 
   
   
-  
+ ![Snake animation](https://github.com/Bikramkarmakar/bikramkarmakar/blob/output/github-contribution-grid-snake.svg)
  
  <br>   <details>
   <summary><h3 align = "center"> ❓</h3> </summary>
       <p align="center">
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="surprise.jpg" alt="Surprise" height="80" width="90" /></a>
 
- ![Snake animation](https://github.com/Bikramkarmakar/bikramkarmakar/blob/output/github-contribution-grid-snake.svg)
  
 
  
