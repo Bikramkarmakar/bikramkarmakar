@@ -52,14 +52,14 @@
   
   <div class='container'>
 <a href="https://github.com/bikramkarmakar">
-    <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&show_icons=true&locale=en&theme=blue-green" /></a>
+    <img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&show_icons=true&locale=en&theme=blue-green" /></a>
 &nbsp;
 &nbsp;
 <a href="https://github.com/bikramkarmakar">
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikramkarmakar&theme=blue-green&langs_count=8&layout=compact&show_icons=true&locale=en" /></div></a>
+  <img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikramkarmakar&theme=blue-green&langs_count=8&layout=compact&show_icons=true&locale=en" /></div></a>
 </div>
 <p> 
-  <a href="https://github.com/bikramkarmakar"><img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a href="https://github.com/bikramkarmakar"><img width="98%" src="http://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </p>
 
 
