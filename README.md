@@ -53,7 +53,7 @@
 
 
   
-  
+  ## ☎️ Connect With Me  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -79,10 +79,10 @@
 <a href="https://auth.geeksforgeeks.org/user/bikramkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/bikramkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" /></a>
 <a href="https://discord.gg/bikramkarmakar#8261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-
-
 </p>
 
+
+  ## 🤝 Support  
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bikramkarmakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bikramkarmakar" /></a><a href="https://ko-fi.com/bikramkarmakar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bvhvhvkh" /></a></p><br><br>
 
