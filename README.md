@@ -173,6 +173,10 @@
       <p align="center">
 <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="surprise.jpg" alt="Surprise" height="80" width="90" /></a>
 
+
+<a href="https://open.spotify.com/user/31n3pzgkbfdixat5qcpourkr6qkm" target="blank"><img align="center" src="https://dribbble.com/shots/3165191-Spotify-Animated-Logo-Animation-Mnemonic/attachments/9681888?mode=media" alt="spotify" height="50" width="60" /></a>
+
+
  
 
  
