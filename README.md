@@ -115,10 +115,10 @@
 </p>
   
 
-<a href="/"/bikramkarmakar/bikramkarmakar/blob/main/rss feed"" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss feed" height="30" width="40" /></a>  
+
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikramkarmakar&label=Profile%20views&lcolor=640464&style=for-the-badge&color=7c007c&logo=AngelList&logoColor=white" alt="bikramkarmakar" /> </p>
-<p align="left"> <a href="https://twitter.com/bikram_is_here" target="blank"><img src="https://img.shields.io/twitter/follow/bikram_is_here?logo=twitter&style=for-the-badge" alt="bikram_is_here" /></a> </p>
+
 <p>    
   <a href="https://github.com/bikramkarmakar?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bikramkarmakar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -126,29 +126,7 @@
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikramkarmakar" alt="bikramkarmakar" /></a> </p>
 
 
-  <p align="center">
-  
-  <a href="https://www.youtube.com/UCI9jt3mu_TkNdtJVa_4rVdw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/bikram_is_here"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/bikramkarmakar" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/bikramkarmakar"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/bikramkarmakar"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/bikramkarmakar"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
-
-<br/>
-
-<p>
-  
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->  
-  
+ 
 
   
 
