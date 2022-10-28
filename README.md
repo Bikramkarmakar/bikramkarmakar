@@ -217,9 +217,14 @@
 &nbsp;
   
   
+ <p align="center">
+  <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200">
+  <img align="center" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="200">
+  <img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200">
+ </p>
+ 
   
-  
-  
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n3pzgkbfdixat5qcpourkr6qkm&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
   
 
@@ -273,12 +278,6 @@
   
   
 
-<p align="center">
-  <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200">
-  <img align="center" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="200">
-  <img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200">
- 
-</p>
 
 
 
