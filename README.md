@@ -217,19 +217,25 @@
   
 
   
+
+  
+  
+  
+  
+
+<img align="right" alt="GIF" height="auto" width="25%" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+
+<div align="center" width="50%">
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n3pzgkbfdixat5qcpourkr6qkm&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
-  
-  
-  
-  
-  
-  <table>
-<tr>
-<td><img align="" width="" alt="Cat 1" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fmusic&psig=AOvVaw0R0m21Igc1o8Gpkzel7mmv&ust=1666968968950000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJiK1cHVgPsCFQAAAAAdAAAAABAK"></td>
-<td><img align="right" width="25%" alt="Cat 2" src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif"></td>
-</tr>
-</table>
+</div>
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="auto" width="25%"> 
+
+
+
+
+
 
 
 
@@ -253,7 +259,15 @@
   
   
   
-  
+ <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p> 
+ 
+ 
+ 
+ 
+ <img align="right" alt="GIF" height="170" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+ 
+ 
+ 
   
 <br>   <details>
   <summary><h3 align = "center"> ❓</h3> </summary>
