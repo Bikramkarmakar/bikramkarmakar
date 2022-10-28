@@ -112,13 +112,13 @@
   
   <h3 align="left">Top Github Repositories:</h3>
  <a href="https://github.com/bikramkarmakar/Initial-Python-Programs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikramkarmakar&repo=Initial-Python-Programs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikramkarmakar&repo=Initial-Python-Programs&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/bikramkarmakar/bikramkarmakar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikramkarmakar&repo=bikramkarmakar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikramkarmakar&repo=bikramkarmakar&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" />
 </a>  
 <a href="https://github.com/bikramkarmakar/Initial-C-programs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikramkarmakar&repo=Initial-C-programs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikramkarmakar&repo=Initial-C-programs&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" />
 </a> 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -209,7 +209,7 @@
   <a href="https://ko-fi.com/bikramkarmakar"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" /></a>
 </p>
 <br><br>
- <div>
+&nbsp;
   
   
   
