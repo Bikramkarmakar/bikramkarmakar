@@ -146,11 +146,16 @@
 
 
   
- <img align="left" style="height: auto; width: 15%;" src="https://komarev.com/ghpvc/?username=bikramkarmakar&label=Profile%20views&lcolor=640464&style=for-the-badge&color=7c007c&logo=AngelList&logoColor=white" alt="bikramkarmakar" /> 
+ <img align="left" style="height: auto; width: 16%;" src="https://komarev.com/ghpvc/?username=bikramkarmakar&label=Profile%20views&lcolor=640464&style=for-the-badge&color=7c007c&logo=AngelList&logoColor=white" alt="bikramkarmakar" /> 
 
-   
-  <a href="https://github.com/bikramkarmakar?tab=followers">
-    <img align="right" style="height: auto; width: 15%;" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bikramkarmakar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
+
+   <a href="https://github.com/bikramkarmakar?tab=followers">
+      <img align="right" height="auto" width="12%" src="https://img.shields.io/github/followers/bikramkarmakar?label=Follow&style=social" alt="Follow me on Github"></a>
+
+  
+  
+
    
 
   
@@ -313,7 +318,8 @@
   
   
   
-  
+   <a href="https://github.com/bikramkarmakar?tab=followers">
+  <img align="right" style="height: auto; width: 15%;" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bikramkarmakar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
   
   
