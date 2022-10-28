@@ -206,6 +206,10 @@
 <h3 align="left"> 🤝Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bikramkarmakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bikramkarmakar" /></a>
   
+  
+
+  
+ 
   <a href="https://ko-fi.com/bikramkarmakar"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" /></a>
 </p>
 <br><br>
@@ -213,24 +217,25 @@
   
   
   
+  <div align="left" height="auto" width="100%" >
   
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n3pzgkbfdixat5qcpourkr6qkm&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  
+</div> 
+  
+
   
 
   
-
-  
   
   
   
 
-<img align="right" alt="GIF" height="auto" width="25%" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+<img align="right" alt="GIF" height="" width="30%"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 
-<div align="center" width="50%">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n3pzgkbfdixat5qcpourkr6qkm&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-  
-</div>
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="auto" width="25%"> 
+<img align="center" alt="GIF" height="" width="30%"  src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+ 
+<img align="right" alt="GIF"  height="" width="30%" src="https://octodex.github.com/images/daftpunktocat-guy.gif"> 
 
 
 
@@ -264,8 +269,7 @@
  
  
  
- <img align="right" alt="GIF" height="170" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
- 
+
  
  
   
