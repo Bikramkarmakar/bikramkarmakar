@@ -206,10 +206,6 @@
 <h3 align="left"> 🤝Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bikramkarmakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bikramkarmakar" /></a>
   
-  
-
-  
- 
   <a href="https://ko-fi.com/bikramkarmakar"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" /></a>
 </p>
 <br><br>
@@ -231,11 +227,32 @@
   
   
 
-<img align="right" alt="GIF" height="" width="30%"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 
-<img align="center" alt="GIF" height="" width="30%"  src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<div class="row">
+  <div class="column">
+    <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="GIF" style="width:25%">
+  </div>
+  <div class="column">
+    <img align="center" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="GIF" style="width:25%">
+  </div>
+  <div class="column">
+    <img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="GIF" style="width:25%"> 
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
  
-<img align="right" alt="GIF"  height="" width="30%" src="https://octodex.github.com/images/daftpunktocat-guy.gif"> 
+
 
 
 
