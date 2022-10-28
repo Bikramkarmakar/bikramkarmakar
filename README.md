@@ -6,7 +6,7 @@
 
 <h3 align="left"><h3 align="center">
  <h1 align="center">🚀 About Me</h1>
-🎓 I am Bikram Karmakar, a Polytechnic Diploma Student (specializing in Computer Science) and will graduate in mid-2023.
+🎓 I am Bikram Karmakar, a Polytechnic Diploma Student (specializing in Computer Science) and will graduate in mid-2023.I am passionate about Artificial Intelligence 🤖, Pythonic programming 🐍, Java Progrmming ☕ and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 👨‍💻 I enjoy contributing to Open Source Projects and have interest in solo or Group Coding Projects to build and implement new ideas.I am really enthusiastic about learning new technology. I have learned Java , My SQL , Python , HTML , C , C++. I love to network, join new communities and add value. I got started with Freelancing and Blogging quite recently and trying to make it count.
 
@@ -225,8 +225,8 @@
  
   
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n3pzgkbfdixat5qcpourkr6qkm&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-  
+<h3 align="center">under construction do not watch</h3>
+------------------------------------------------------------------------------------------------------------------------------------------------- 
 
   
 
@@ -235,31 +235,23 @@
   
  
  
+
  
  
- <p> 
-  
-   <img align="right" src="" height="50" width="210" alt="" /></a>
-</p>
-<br><br>
-&nbsp;
+
   
  
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n3pzgkbfdixat5qcpourkr6qkm&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
  
  <p align="center">
   <a href="https://www.buymeacoffee.com/bikramkarmakar">
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"  />
-  </a>
- 
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n3pzgkbfdixat5qcpourkr6qkm&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-  
-   
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
   <a href="https://ko-fi.com/bikramkarmakar">
-  <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="Buy Me a Coffee">
- 
-</p>
- 
+  <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" /></a>
+ </p>
+  
+  
+
  
  
  
