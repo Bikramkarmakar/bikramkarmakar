@@ -228,21 +228,13 @@
   
 
 
-<div class="row">
-  <div class="column">
-    <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="GIF" style="width:25%">
-  </div>
-  <div class="column">
-    <img align="center" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="GIF" style="width:25%">
-  </div>
-  <div class="column">
-    <img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="GIF" style="width:25%"> 
-  </div>
-</div>
 
 
 
-
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" style="float: right; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="clear: both;">
 
 
 
