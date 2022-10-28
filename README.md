@@ -21,7 +21,7 @@
   
 - 🔭 I’m currently working on Mini Projects  and small developement works.
  
-- 🌱 I’m currently learning from **everything** 🤓
+- 🌱 I’m currently learning about Open source Projects.
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
@@ -232,14 +232,15 @@
   
   
 
+<p align="center">
+  <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200">
+  <img align="center" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="200">
+  <img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200">
+ 
+</p>
 
 
 
-
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" style="float: right; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<p style="clear: both;">
 
 
 
