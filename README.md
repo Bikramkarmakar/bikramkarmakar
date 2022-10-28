@@ -228,7 +228,48 @@
   
 
   
+ 
+ 
+ 
+ 
+ <p> 
   
+   <img align="right" src="" height="50" width="210" alt="" /></a>
+</p>
+<br><br>
+&nbsp;
+  
+ 
+ 
+ <p align="center">
+  <a href="https://www.buymeacoffee.com/bikramkarmakar">
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"  />
+  </a>
+ 
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n3pzgkbfdixat5qcpourkr6qkm&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  
+   
+  <a href="https://ko-fi.com/bikramkarmakar">
+  <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="Buy Me a Coffee">
+ 
+</p>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
   
   
 
@@ -279,8 +320,7 @@
   
   
   
- <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p> 
- 
+
  
  
  
@@ -331,6 +371,7 @@
   
   
   
+  <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p> 
   
 <br>   <details>
   <summary><h3 align = "center"> ❓</h3> </summary>
