@@ -266,11 +266,11 @@
 <br>
 
 
-<div class='container'>
+<p>
   <div align="left"><samp>Made with 💜</samp></div>
   <div align="center"><img align="center" src="https://profile-counter.glitch.me/bikramkarmakar/count.svg" /></div>
   <div align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></div>
-</div>
+</p>
 <br>
 <br>
 
