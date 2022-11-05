@@ -231,12 +231,7 @@
  
  
  
-  
- ------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-<h3 align="center">under construction do not watch</h3>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  
 
   
 
@@ -256,155 +251,28 @@
  
 
 
+  
+  
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+<h3 align="center">under construction do not watch</h3>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+    
 
-
-              
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   <a href="https://github.com/bikramkarmakar?tab=followers">
-  <img align="right" style="height: auto; width: 15%;" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bikramkarmakar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   # 📬 Alterntive contact  :
 
 <p>
  </br>
-
-
 <img hight="320" width="450" align="right" alt="GIF" src="https://media.tenor.com/vsueP0ISyccAAAAC/death-note-death-note-l.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
 <a href="mailto:bikramkarmakarofficial@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/bikramkarmakarofficial/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
 </a>
+<br><br><br>
 <a href="https://www.reddit.com/user/Bikram_reddit">
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
 </a>
@@ -415,183 +283,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
         
 
-        
- # Some kind of alternative profile view counter  :
 
 <img align="left" src="https://profile-counter.glitch.me/bikramkarmakar/count.svg" />
 
