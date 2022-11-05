@@ -258,8 +258,7 @@
 
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bikram-karmakar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bikram-karmakar?trk=profile-badge">Bikram Karmakar</a></div>
+
               
 
 
@@ -276,12 +275,6 @@
 
 
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/bikramkarmakar">
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
-  <a href="https://ko-fi.com/bikramkarmakar">
-  <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" /></a>
- </p>
   
   
 
@@ -360,9 +353,6 @@
  
  
  
-<img src="https://thumbs.dreamstime.com/z/kolkata-skyline-color-landmarks-blue-sky-reflections-vector-illustration-business-travel-tourism-concept-92161196.jpg" width="425"/>
-<img src="https://thumbs.dreamstime.com/z/kolkata-skyline-color-landmarks-blue-sky-reflections-vector-illustration-business-travel-tourism-concept-92161196.jpg" width="425"/> 
-<img src="https://thumbs.dreamstime.com/z/kolkata-skyline-color-landmarks-blue-sky-reflections-vector-illustration-business-travel-tourism-concept-92161196.jpg" width="425"/> 
 
  
  
@@ -596,10 +586,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
-<br>   <details>
-  <summary><h3 align = "center"> ❓</h3> </summary>
-      <p align="center">
-<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="surprise.jpg" alt="Surprise" height="80" width="90" /></a>
+
         
         
  <samp> 
@@ -610,13 +597,16 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <img align="left" src="https://profile-counter.glitch.me/bikramkarmakar/count.svg" />
 
-______________________________________________________________________________________________________________________________________________________________
+
 <p align="left">Made with 💜</p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
   jkghj
 
-
-
+______________________________________________________________________________________________________________________________________________________________
+<br>   <details>
+  <summary><h3 align = "center"> ❓</h3> </summary>
+      <p align="center">
+<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="surprise.jpg" alt="Surprise" height="80" width="90" /></a>
 
  
 
