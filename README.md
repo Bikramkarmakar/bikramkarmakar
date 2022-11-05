@@ -6,15 +6,14 @@
 
 <h3 align="left"><h3 align="center">
  <h1 align="center">🚀 About Me</h1>
-🎓 I am Bikram Karmakar, a Polytechnic Diploma Student (specializing in Computer Science) and will graduate in mid-2023.I am passionate about Artificial Intelligence 🤖, Pythonic programming 🐍, Java Progrmming ☕ and open source :octocat:. I love to learn and contribute in any and every possible way.
+🎓 I am Bikram Karmakar, a Polytechnic Diploma Student (specializing in Computer Science) from APC Ray Polytechnic, Jadavpur, and will graduate in mid-2023. I am passionate about Artificial Intelligence 🤖, Python programming 🐍, Java programming ☕, and open-source Projects. I love to learn and contribute in any and every possible way.
+👨‍💻 I enjoy collaborating with people building and implementing new ideas. I am really enthusiastic about learning new technology. I have learned Java, My SQL, Python, HTML, C, and C++. I love to network, join new communities and add value. I got started with Freelancing and Blogging and trying to make it count.
 
-👨‍💻 I enjoy contributing to Open Source Projects and have interest in solo or Group Coding Projects to build and implement new ideas.I am really enthusiastic about learning new technology. I have learned Java , My SQL , Python , HTML , C , C++. I love to network, join new communities and add value. I got started with Freelancing and Blogging quite recently and trying to make it count.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from listening to music, sketching, drawing, painting, and writing. I Love to Play Chess, Cricket, Football, and Badminton.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from listening to music, break dancing (hip-hop), sketching, and touch typing to some whacky ones like writing with my left hand.
+📚 I also love reading books. My Favourite Genres are personal development, Self-help, Horror, Mystery, Riddle & financial literacy. My favorite ones are Sherlock Holmes by Sir Arthur Conan Doyle in the genre of Mystery and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
-📚 I also love reading books on personal development & financial literacy. My favorite ones are The Compound Effect by Darren Hardy in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
-
-✈️ I love traveling too. I have been on many solo trips around many cities and villages of West Bengal in my free time.</h3> 
+✈️ I love traveling too. Visiting New Places and meeting new people is an experience on their own. I have been on many solos in my free time. My passions include photography, traveling, music (piano, guitar, flute), and technology. I have held numerous management and leadership roles throughout my years of schooling and would describe myself as a very organized, hard-working individual with a positive attitude. During my free time, you can usually find me volunteering, or hanging out with friends and family.</h3> 
  &nbsp; 
  <hr>
    <img width = "50%" align = "right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" title="Coding Gif">
