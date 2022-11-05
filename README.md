@@ -249,61 +249,14 @@
   
   
   </div>
- <br>
-
-
-
-    
-
-  
-  
-
-
-        
-
+<br>
 <br>
 <br>
 <br>
 
 
 <p>
-  <div align="left"><samp>Made with 💜</samp></div>
   <div align="center"><img align="center" src="https://profile-counter.glitch.me/bikramkarmakar/count.svg" /></div>
+  <div align="left"><samp>Made with 💜</samp></div>
   <div align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></div>
 </p>
-<br>
-<br>
-
-
-<br>   <details>
-  <summary><h3 align = "center"> ❓</h3> </summary>
-      <p align="center">
-<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="surprise.jpg" alt="Surprise" height="80" width="90" /></a>
-<img align="center" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="200">
-        
-        
-        <br> <br> <br> <br> <br> <br> <br>
-          # 📬 Alterntive contact  :
-
-<p>
- </br>
-<img hight="320" width="450" align="right" alt="GIF" src="https://media.tenor.com/vsueP0ISyccAAAAC/death-note-death-note-l.gif">
-<a href="mailto:bikramkarmakarofficial@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/bikramkarmakarofficial/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</a>
-<br><br><br>
-<a href="https://www.reddit.com/user/Bikram_reddit">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561199420080184/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
- </p> 
-
-
- 
-
- 
