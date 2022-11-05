@@ -255,7 +255,29 @@
   
   </div>
  
- <p align="center">
+
+
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bikram-karmakar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bikram-karmakar?trk=profile-badge">Bikram Karmakar</a></div>
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
   <a href="https://www.buymeacoffee.com/bikramkarmakar">
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
   <a href="https://ko-fi.com/bikramkarmakar">
