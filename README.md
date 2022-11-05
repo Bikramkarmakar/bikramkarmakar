@@ -257,7 +257,28 @@
 
   
   
-  # 📬 Alterntive contact  :
+
+
+        
+
+
+<img align="left" src="https://profile-counter.glitch.me/bikramkarmakar/count.svg" />
+
+
+
+<div align="left">Made with 💜</div>
+<div align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></div>
+  
+______________________________________________________________________________________________________________________________________________________________
+<br>   <details>
+  <summary><h3 align = "center"> ❓</h3> </summary>
+      <p align="center">
+<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="surprise.jpg" alt="Surprise" height="80" width="90" /></a>
+<img align="center" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="200">
+        
+        
+        <br> <br> <br> <br> <br> <br> <br>
+          # 📬 Alterntive contact  :
 
 <p>
  </br>
@@ -278,23 +299,6 @@
  </p> 
 
 
-
-        
-
-
-<img align="left" src="https://profile-counter.glitch.me/bikramkarmakar/count.svg" />
-
-
-
-<p align="left">Made with 💜</p>
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-  
-______________________________________________________________________________________________________________________________________________________________
-<br>   <details>
-  <summary><h3 align = "center"> ❓</h3> </summary>
-      <p align="center">
-<a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" src="surprise.jpg" alt="Surprise" height="80" width="90" /></a>
-<img align="center" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="200">
  
 
  
