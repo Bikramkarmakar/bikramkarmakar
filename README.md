@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bikram Karmakar</h1>
+<h1 align="center"><samp>Hi 👋, I'm Bikram Karmakar</samp></h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 <p align="center">
   <img src="Business Profile Photo.jpg" title="Profile Picture">
@@ -37,7 +37,7 @@
 - 📫 Reach me out at <a href="https://api.whatsapp.com/send?phone=918670860718" target="blank"><img height = "auto" width = "4%" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png"></a>
   
 
-    
+  
 
   
   
@@ -589,9 +589,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
         
         
- <samp> 
-   <h1>new font</h1>
-   </samp>
+
         
  # Some kind of alternative profile view counter  :
 
@@ -600,7 +598,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="left">Made with 💜</p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-  jkghj
+  
 
 ______________________________________________________________________________________________________________________________________________________________
 <br>   <details>
