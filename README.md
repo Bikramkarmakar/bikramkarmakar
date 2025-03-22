@@ -1,19 +1,19 @@
-<!-- Title -->
+<!-- TITLE -->
 <h1 align="center">Hi 👋, I'm Bikram Karmakar</h1>
 
-<!-- Top Image -->
+<!-- TOP IMAGE -->
 <p align="center">
   <img 
     src="https://wallpapercave.com/wp/wp9500685.jpg" 
     alt="Task Force 141" 
-    width="60%"
+    width="60%" 
   />
 </p>
 
-<!-- Profile Views & Follow (One Row, Two Columns) -->
+<!-- PROFILE VIEWS & FOLLOW -->
 <table width="100%">
   <tr>
-    <!-- Left Cell: Profile Views -->
+    <!-- Left: Profile Views -->
     <td align="left" style="padding: 10px;">
       <a 
         href="https://komarev.com/ghpvc/?username=bikramkarmakar&label=Profile%20views&lcolor=640464&style=for-the-badge&color=7c007c&logo=AngelList&logoColor=white" 
@@ -26,7 +26,7 @@
         />
       </a>
     </td>
-    <!-- Right Cell: Follow -->
+    <!-- Right: Follow -->
     <td align="right" style="padding: 10px;">
       <a 
         href="https://github.com/bikramkarmakar?tab=followers" 
@@ -42,11 +42,10 @@
   </tr>
 </table>
 
-<!-- Support Section -->
+<!-- SUPPORT SECTION -->
 <h3 align="left">Support:</h3>
 <table>
   <tr>
-    <!-- Buy Me a Coffee -->
     <td style="padding: 10px;">
       <a 
         href="https://www.buymeacoffee.com/bikramkarmakar" 
@@ -60,7 +59,6 @@
         />
       </a>
     </td>
-    <!-- Ko-fi -->
     <td style="padding: 10px;">
       <a 
         href="https://ko-fi.com/bikramkarmakar" 
@@ -77,31 +75,29 @@
   </tr>
 </table>
 
-<!-- Octodex Images (One Row, Two Columns, Centered) -->
-<p align="center">
-  <table>
-    <tr>
-      <!-- Left Octodex -->
-      <td align="center" style="padding: 10px;">
-        <img 
-          src="https://octodex.github.com/images/daftpunktocat-thomas.gif" 
-          alt="Octodex Thomas" 
-          width="200"
-        />
-      </td>
-      <!-- Right Octodex -->
-      <td align="center" style="padding: 10px;">
-        <img 
-          src="https://octodex.github.com/images/daftpunktocat-guy.gif" 
-          alt="Octodex Guy" 
-          width="200"
-        />
-      </td>
-    </tr>
-  </table>
-</p>
+<!-- OCTODEX IMAGES -->
+<table>
+  <tr>
+    <!-- Left Octodex -->
+    <td align="center" style="padding: 10px;">
+      <img 
+        src="https://octodex.github.com/images/daftpunktocat-thomas.gif" 
+        alt="Octodex Thomas" 
+        width="200"
+      />
+    </td>
+    <!-- Right Octodex -->
+    <td align="center" style="padding: 10px;">
+      <img 
+        src="https://octodex.github.com/images/daftpunktocat-guy.gif" 
+        alt="Octodex Guy" 
+        width="200"
+      />
+    </td>
+  </tr>
+</table>
 
-<!-- Footer (Three Columns) -->
+<!-- FOOTER -->
 <table width="100%">
   <tr>
     <!-- Left: Visitor Count -->
