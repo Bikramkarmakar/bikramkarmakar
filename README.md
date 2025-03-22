@@ -41,21 +41,66 @@
 
   
   
-   ## 🔥 Github Stats 
-  
-  
-  
-  <div class='container'>
-<a href="https://github.com/bikramkarmakar">
-    <img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&show_icons=true&locale=en&theme=blue-green" /></a>
-&nbsp;
-&nbsp;
-<a href="https://github.com/bikramkarmakar">
-  <img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikramkarmakar&theme=blue-green&langs_count=8&layout=compact&show_icons=true&locale=en" /></div></a>
+<!-- 🔥 GitHub Stats -->
+<h2>🔥 GitHub Stats</h2>
+
+<style>
+  .stats-container {
+    display: flex;
+    gap: 10px;              /* Space between boxes */
+    justify-content: space-between;
+    margin-bottom: 20px;
+    flex-wrap: wrap;       /* Allows wrapping on smaller screens */
+  }
+
+  .stats-box {
+    flex: 1 1 calc(33% - 10px); /* 3 columns in one row, accounting for gap */
+    max-width: 32%;            /* Ensures they don’t exceed 3 columns on large screens */
+    min-width: 250px;          /* Prevent boxes from getting too small on narrow screens */
+    position: relative;
+    overflow: hidden;          /* Hides any image overflow when using cover */
+    height: 200px;             /* Fixed height for all stats boxes */
+  }
+
+  .stats-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;  /* or "contain" if you don’t want the images cropped */
+    display: block;
+  }
+
+  @media (max-width: 768px) {
+    .stats-box {
+      max-width: 100%;  /* Stack on smaller screens */
+      flex: 1 1 100%;
+      margin-bottom: 10px;
+    }
+  }
+</style>
+
+<div class="stats-container">
+  <a class="stats-box" href="https://github.com/bikramkarmakar">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=bikramkarmakar&show_icons=true&locale=en&theme=blue-green" 
+      alt="Bikram Karmakar's GitHub Stats" 
+    />
+  </a>
+  <a class="stats-box" href="https://github.com/bikramkarmakar">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikramkarmakar&theme=blue-green&langs_count=8&layout=compact&show_icons=true&locale=en" 
+      alt="Most Used Languages" 
+    />
+  </a>
+  <a class="stats-box" href="https://github.com/bikramkarmakar">
+    <img 
+      src="http://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" 
+      alt="GitHub Streak Stats" 
+    />
+  </a>
 </div>
-<p> 
-  <a href="https://github.com/bikramkarmakar"><img width="98%" src="http://github-readme-streak-stats.herokuapp.com/?user=bikramkarmakar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-</p>
+
+
+  
   
   
   
