@@ -1,43 +1,148 @@
 <div align="center">
-  
-  <!-- Dynamic Terminal Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Architecting+unified+autonomous+infrastructure.;AI+as+the+intelligence.;Cyber-physical+systems+as+the+embodiment.;Distributed+networks+as+the+nervous+system." alt="Typing SVG" />
-  </a>
 
-  <br><br>
+# Hi, I'm Bikram Karmakar
 
-  <p align="center" style="font-size: 16px; max-width: 800px; line-height: 1.6; color: #8b949e;">
-    <b>Artificial Intelligence</b> as the intelligence, <b>robotics and embedded cyber-physical systems</b> as the physical embodiment, and <b>distributed networks</b> as the nervous system connecting them. Fortified by cybersecurity and cryptography for trust and resilience, this framework harnesses advanced computing for computational power, sustainable energy for continuous operation, and space as the ultimate proving ground.
-  </p>
-  
-  <p align="center" style="font-size: 16px; max-width: 800px; line-height: 1.6; color: #8b949e;">
-    My near-term focus: solving high-impact problems today to fund and build the resilient systems of tomorrow.
-  </p>
+### Architecting Civilization-Scale Autonomous Infrastructure
+
+<!-- Typing SVG -->
+
+---
+
+*A unified vision where intelligence, machines, networks, security, energy, and space converge into resilient autonomous systems.*
 
 </div>
 
+---
 
-graph TD
-    classDef mind fill:#0d1117,stroke:#3b82f6,stroke-width:2px,color:#c9d1d9
-    classDef body fill:#0d1117,stroke:#10b981,stroke-width:2px,color:#c9d1d9
-    classDef network fill:#0d1117,stroke:#8b5cf6,stroke-width:2px,color:#c9d1d9
-    classDef core fill:#0d1117,stroke:#f59e0b,stroke-width:2px,color:#c9d1d9
+# 🌍 The Vision
 
-    subgraph The Resilient Ecosystem
-        AI[🧠 Artificial Intelligence<br>The Mind]:::mind
-        CPS[🦾 Cyber-Physical Systems<br>The Embodiment]:::body
-        Net[🕸️ Distributed Networks<br>The Nervous System]:::network
-        Crypto[🛡️ Cryptography<br>Trust & Resilience]:::core
-        Energy[🔋 Sustainable Energy<br>Continuous Operation]:::body
-        Space[🚀 Space Tech<br>The Proving Ground]:::mind
-    end
+<!-- Large SVG Illustration (future) -->
 
-    AI ==> Net
-    Net ==> CPS
-    Crypto -. Secures .-> Net
-    Energy -. Sustains .-> CPS
-    Energy -. Sustains .-> AI
-    CPS === Space
+> **Artificial Intelligence → Robotics → Networks → Security → Computing → Energy → Space**
 
+*A single ecosystem rather than isolated disciplines.*
 
+---
+
+# 🏗 System Architecture
+
+<!-- Large Architecture SVG -->
+
+```
+          Space
+            ▲
+      Sustainable Energy
+            ▲
+    Advanced Computing
+            ▲
+ Cybersecurity & Trust
+            ▲
+ Distributed Networks
+            ▲
+ Cyber-Physical Systems
+            ▲
+ Artificial Intelligence
+```
+
+---
+
+# 🧠 Research Ecosystem
+
+<!-- Circular Mind Map SVG -->
+
+```
+                     Space
+                        ○
+
+        Energy                    Security
+
+ Robotics                         Networks
+
+       AI                    Embedded Systems
+
+ Neuroscience             Economics
+
+     Psychology       Geopolitics
+
+      Chess             Literature
+```
+
+---
+
+# 🔬 Current Research Direction
+
+### Near-Term
+
+- High-impact real-world engineering problems
+- Artificial Intelligence
+- Robotics
+- Distributed Systems
+- Cybersecurity
+- Embedded Systems
+
+### Long-Term
+
+- Self-improving autonomous infrastructure
+- Planetary-scale resilient systems
+- Interplanetary intelligent networks
+
+---
+
+# 🚀 Technology Stack
+
+<!-- Animated Tech Icons -->
+
+---
+
+# 📂 Featured Projects
+
+<!-- Project Cards -->
+
+---
+
+# 📈 Research Roadmap
+
+```
+Knowledge
+    │
+    ▼
+Projects
+    │
+    ▼
+Research
+    │
+    ▼
+Open Source
+    │
+    ▼
+Publications
+    │
+    ▼
+Graduate Research
+    │
+    ▼
+Planetary Infrastructure
+```
+
+---
+
+# 📊 Current Mission Status
+
+```
+Mission
+══════════════════════════════════════
+
+Phase I  ▰▰▱▱▱▱▱▱▱▱
+
+✓ Learning
+✓ Building
+□ Publishing
+□ Leading
+□ Scaling
+```
+
+---
+
+# 🌐 Connect With Me
+
+<!-- Social Badges -->
