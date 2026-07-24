@@ -1,32 +1,50 @@
 <div align="center">
 
-# Hi, I'm Bikram Karmakar
+<!-- ========================================================= -->
+<!-- HERO BANNER PLACEHOLDER                                   -->
+<!-- Future: assets/hero-banner.webp                           -->
+<!-- Size: 1600 × 500                                          -->
+<!-- ========================================================= -->
+
+<br>
+
+🚧 **HERO BANNER COMING SOON**
+
+<br><br>
+
+# Bikram Karmakar
 
 ### Architecting Civilization-Scale Autonomous Infrastructure
 
+<br>
+
+*Building the intelligent foundations of resilient autonomous systems through Artificial Intelligence, Cyber-Physical Systems, Distributed Networks, Secure Computing, Sustainable Energy, and Space Technology.*
+
+<br>
+
 <!-- Typing SVG -->
 
----
+<br>
 
-*A unified vision where intelligence, machines, networks, security, energy, and space converge into resilient autonomous systems.*
+<!-- Social Badges -->
 
 </div>
 
 ---
 
-# 🌍 The Vision
+# MISSION
 
-<!-- Large SVG Illustration (future) -->
+<!-- Future Illustration -->
 
 > **Artificial Intelligence → Robotics → Networks → Security → Computing → Energy → Space**
 
-*A single ecosystem rather than isolated disciplines.*
+A long-term engineering vision focused on creating interconnected intelligent systems rather than isolated technologies.
 
 ---
 
-# 🏗 System Architecture
+# ARCHITECTURE
 
-<!-- Large Architecture SVG -->
+<!-- Future Architecture SVG -->
 
 ```
           Space
@@ -46,9 +64,9 @@
 
 ---
 
-# 🧠 Research Ecosystem
+# RESEARCH ECOSYSTEM
 
-<!-- Circular Mind Map SVG -->
+<!-- Future Knowledge Constellation -->
 
 ```
                      Space
@@ -69,38 +87,53 @@
 
 ---
 
-# 🔬 Current Research Direction
+# CURRENT RESEARCH
 
-### Near-Term
+### Near-Term Focus
 
-- High-impact real-world engineering problems
 - Artificial Intelligence
 - Robotics
+- Cyber-Physical Systems
 - Distributed Systems
 - Cybersecurity
 - Embedded Systems
+- Intelligent Automation
 
-### Long-Term
+<br>
+
+### Long-Term Vision
 
 - Self-improving autonomous infrastructure
 - Planetary-scale resilient systems
-- Interplanetary intelligent networks
+- Human-AI collaboration
+- Distributed intelligent civilizations
+- Interplanetary communication systems
 
 ---
 
-# 🚀 Technology Stack
+# TECHNOLOGY STACK
 
-<!-- Animated Tech Icons -->
+<!-- Future Technology Stack Illustration -->
 
----
+<br>
 
-# 📂 Featured Projects
-
-<!-- Project Cards -->
+🚧 Technology visualization coming soon.
 
 ---
 
-# 📈 Research Roadmap
+# FEATURED PROJECTS
+
+<!-- Future Project Cards -->
+
+<br>
+
+🚧 Project showcase coming soon.
+
+---
+
+# ROADMAP
+
+<!-- Future Timeline Illustration -->
 
 ```
 Knowledge
@@ -126,23 +159,35 @@ Planetary Infrastructure
 
 ---
 
-# 📊 Current Mission Status
+# CURRENT MISSION
 
 ```
 Mission
 ══════════════════════════════════════
 
-Phase I  ▰▰▱▱▱▱▱▱▱▱
+Phase I
+
+▰▰▱▱▱▱▱▱▱▱
 
 ✓ Learning
+
 ✓ Building
+
 □ Publishing
+
+□ Collaborating
+
 □ Leading
+
 □ Scaling
 ```
 
 ---
 
-# 🌐 Connect With Me
+# CONNECT
 
 <!-- Social Badges -->
+
+<br>
+
+*"Engineering intelligent systems that scale from embedded devices to planetary infrastructure."*
