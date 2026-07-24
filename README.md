@@ -18,3 +18,26 @@
 </div>
 
 
+graph TD
+    classDef mind fill:#0d1117,stroke:#3b82f6,stroke-width:2px,color:#c9d1d9
+    classDef body fill:#0d1117,stroke:#10b981,stroke-width:2px,color:#c9d1d9
+    classDef network fill:#0d1117,stroke:#8b5cf6,stroke-width:2px,color:#c9d1d9
+    classDef core fill:#0d1117,stroke:#f59e0b,stroke-width:2px,color:#c9d1d9
+
+    subgraph The Resilient Ecosystem
+        AI[🧠 Artificial Intelligence<br>The Mind]:::mind
+        CPS[🦾 Cyber-Physical Systems<br>The Embodiment]:::body
+        Net[🕸️ Distributed Networks<br>The Nervous System]:::network
+        Crypto[🛡️ Cryptography<br>Trust & Resilience]:::core
+        Energy[🔋 Sustainable Energy<br>Continuous Operation]:::body
+        Space[🚀 Space Tech<br>The Proving Ground]:::mind
+    end
+
+    AI ==> Net
+    Net ==> CPS
+    Crypto -. Secures .-> Net
+    Energy -. Sustains .-> CPS
+    Energy -. Sustains .-> AI
+    CPS === Space
+
+
