@@ -28,13 +28,14 @@ Do NOT remove comments unless necessary.
 <!-- Size : 1600 × 500                                                      -->
 <!-- ====================================================================== -->
 
-<br><br><br><br><br><br><br><br><br><br>
+<p align="center">
+    <img
+        src="assets/hero-banner.png"
+        alt="Hero Banner"
+        width="100%">
+</p>
 
-🚧
-
-Future Hero Banner
-
-<br><br><br>
+<br>
 
 # Bikram Karmakar
 
