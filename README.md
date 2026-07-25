@@ -1579,56 +1579,6 @@ Infrastructure changes civilization.
 
 <div align="center">
 
-# PERSONAL INTERESTS
-
-</div>
-
-<!-- ====================================================================== -->
-<!-- IMAGE PLACEHOLDER                                                      -->
-<!-- assets/interests.svg                                                   -->
-<!-- ====================================================================== -->
-
-<br><br><br>
-
-Outside of engineering I enjoy exploring disciplines that improve long-term
-thinking and problem solving.
-
-Current interests include
-
-- Chess
-
-- Reading
-
-- Scientific Literature
-
-- Space Exploration
-
-- History of Technology
-
-- Mathematics
-
-- Philosophy
-
-- Strategy
-
-- Economics
-
-- Sketching
-
-- Travel
-
-These interests help broaden the perspective required for designing complex
-engineering systems.
-
----
-
-<!-- ====================================================================== -->
-<!-- DIVIDER                                                                -->
-<!-- ====================================================================== -->
-
-<br><br><br>
-
-<div align="center">
 
 # FUTURE INITIATIVES
 
@@ -1682,21 +1632,7 @@ years to come.
 
 <div align="center">
 
-# BLOG & TECHNICAL WRITING
 
-</div>
-
-<!-- ====================================================================== -->
-<!-- IMAGE PLACEHOLDER                                                      -->
-<!-- assets/blog.svg                                                        -->
-<!-- ====================================================================== -->
-
-<br><br><br><br><br>
-
-Future technical articles will document lessons learned while building software,
-conducting research, and exploring emerging technologies.
-
----
 
 ### Planned Categories
 
@@ -1754,93 +1690,8 @@ Knowledge becomes significantly more valuable when it can be shared clearly.
 
 <div align="center">
 
-# EXPERIENCE
 
-</div>
 
-<!-- ====================================================================== -->
-<!-- IMAGE PLACEHOLDER                                                      -->
-<!-- assets/experience.svg                                                  -->
-<!-- ====================================================================== -->
-
-<br><br><br>
-
-This section will evolve as my engineering journey progresses.
-
----
-
-### Industry Experience
-
-Coming Soon
-
----
-
-### Research Experience
-
-Coming Soon
-
----
-
-### Open Source Contributions
-
-Coming Soon
-
----
-
-### Technical Leadership
-
-Coming Soon
-
----
-
-### Community Participation
-
-Coming Soon
-
----
-
-### Speaking
-
-Coming Soon
-
----
-
-### Mentoring
-
-Coming Soon
-
----
-
-<!-- ====================================================================== -->
-<!-- DIVIDER                                                                -->
-<!-- ====================================================================== -->
-
-<br><br><br>
-
-<div align="center">
-
-# EDUCATION
-
-</div>
-
-<!-- ====================================================================== -->
-<!-- IMAGE PLACEHOLDER                                                      -->
-<!-- assets/education.svg                                                   -->
-<!-- ====================================================================== -->
-
-<br><br><br>
-
-## Bachelor of Technology
-
-Information Technology
-
----
-
-## Diploma
-
-Computer Science & Technology
-
----
 
 ### Continuous Learning
 
@@ -1979,56 +1830,7 @@ Embedded Linux
 
 <div align="center">
 
-# ENGINEERING VALUES
 
-</div>
-
-<!-- ====================================================================== -->
-<!-- IMAGE PLACEHOLDER                                                      -->
-<!-- assets/values.svg                                                      -->
-<!-- ====================================================================== -->
-
-<br><br><br>
-
-I value
-
-Integrity
-
-Curiosity
-
-Discipline
-
-Humility
-
-Consistency
-
-Documentation
-
-Scientific Thinking
-
-Engineering Ethics
-
-Open Collaboration
-
-Long-Term Vision
-
-Knowledge Sharing
-
-Continuous Improvement
-
----
-
-These values influence both technical decisions and personal development.
-
----
-
-<!-- ====================================================================== -->
-<!-- DIVIDER                                                                -->
-<!-- ====================================================================== -->
-
-<br><br><br>
-
-<div align="center">
 
 # LONG-TERM OBJECTIVES
 
