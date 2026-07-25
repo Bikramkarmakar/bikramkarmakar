@@ -200,10 +200,10 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 - Distributed Systems
 - Embedded Systems
 - Cybersecurity
-- Open Source Software
-- Intelligent Automation
 - Computer Vision
 - Edge AI
+- Open Source Software
+- Intelligent Automation
 
 </td>
 
@@ -223,6 +223,10 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 - Autonomous Infrastructure
 - Secure Distributed Computing
 - Intelligent Sensor Networks
+- Advanced Computing
+- Sustainable Energy Systems
+- Edge Robotics
+- Intelligent Decision Systems
 
 </td>
 
@@ -243,6 +247,9 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 - Space-Based Networks
 - Interplanetary Communication
 - Civilization-Scale Engineering
+- Planetary Autonomous Systems
+- Human-AI Civilization
+- Space Infrastructure
 
 </td>
 
