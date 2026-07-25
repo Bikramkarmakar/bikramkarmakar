@@ -67,15 +67,6 @@ Sustainable Energy, and Space Technology into one unified ecosystem."*
 
 # MISSION
 
-</div>
-
-<!-- ====================================================================== -->
-<!-- IMAGE PLACEHOLDER                                                      -->
-<!-- assets/mission.svg                                                     -->
-<!-- ====================================================================== -->
-
-<br><br><br><br><br><br><br><br>
-
 ## Vision
 
 The future will not be shaped by isolated technologies.
