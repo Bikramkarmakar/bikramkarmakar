@@ -162,7 +162,7 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 
 </div>
 
----
+
 
 - **Programming Languages:** Java, Python, C, C++, SQL
 
