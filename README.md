@@ -146,7 +146,32 @@ Together, they represent my long-term vision of designing resilient,
 trustworthy, and self-improving autonomous infrastructure capable of solving
 complex real-world challenges at planetary—and eventually interplanetary—scale.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- ====================================================================== -->
+<!-- TECHNICAL SKILLS                                                       -->
+<!-- ====================================================================== -->
+
+<div align="center">
+
+# TECHNICAL SKILLS
+
+</div>
+
 ---
+
+- **Programming Languages:** Java, Python, C, C++, SQL
+
+- **Web Technologies:** HTML, CSS, JavaScript
+
+- **Core Computer Science:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks
+
+- **Artificial Intelligence:** Generative AI, Agentic AI, Prompt Engineering, Retrieval-Augmented Generation (RAG), IBM watsonx Assistant
+
+- **Developer Tools:** Git, GitHub, VS Code, Linux, IBM SkillsBuild
+
+---
+
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
