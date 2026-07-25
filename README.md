@@ -114,7 +114,39 @@ studying patterns, creativity, and the complex interactions that shape reality.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<!-- ====================================================================== -->
+<!-- CIVILIZATION STACK                                                     -->
+<!-- ====================================================================== -->
 
+<div align="center">
+
+# CIVILIZATION STACK
+
+</div>
+
+<!-- ====================================================================== -->
+<!-- IMAGE                                                                  -->
+<!-- assets/Civilization-Stack.png                                          -->
+<!-- ====================================================================== -->
+
+<p align="center">
+    <img
+        src="assets/Civilization-Stack.png"
+        alt="Civilization Technology Stack"
+        width="100%">
+</p>
+
+<br>
+
+The technologies I pursue are not isolated domains, but interconnected layers
+of a single engineering ecosystem. Each layer builds upon the foundation below
+while enabling the capabilities above.
+
+Together, they represent my long-term vision of designing resilient,
+trustworthy, and self-improving autonomous infrastructure capable of solving
+complex real-world challenges at planetary—and eventually interplanetary—scale.
+
+---
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
