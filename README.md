@@ -57,7 +57,7 @@ Sustainable Energy, and Space Technology into one unified ecosystem."*
 
 </div>
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- ====================================================================== -->
 <!-- MISSION                                                                -->
@@ -74,22 +74,21 @@ Sustainable Energy, and Space Technology into one unified ecosystem."*
 <!-- assets/Profile-Photo.jpg                                               -->
 <!-- ====================================================================== -->
 
-<table>
-<tr>
+<p align="center">
+    <img
+        src="assets/Profile-Photo.jpg"
+        alt="Bikram Karmakar"
+        width="220"
+        style="border-radius:50%;">
+</p>
 
-<td width="28%" align="center">
+<br>
 
-<img src="assets/Profile-Photo.jpg" width="220" alt="Bikram Karmakar"/>
-
-</td>
-
-<td width="72%" valign="top">
-
-Artificial Intelligence is the intelligence. Robotics and embedded
-cyber-physical systems are the physical embodiment. Distributed networks form
-the nervous system that connects them, while cybersecurity and cryptography
-establish trust and resilience. Advanced computing provides the computational
-power, sustainable energy enables continuous operation, and space serves as the
+Artificial Intelligence is the intelligence. Robotics and embedded cyber-physical
+systems are the physical embodiment. Distributed networks form the nervous
+system that connects them, while cybersecurity and cryptography establish trust
+and resilience. Advanced computing provides the computational power,
+sustainable energy enables continuous operation, and space serves as the
 ultimate proving ground.
 
 My vision is to integrate these disciplines into self-improving autonomous
@@ -114,12 +113,8 @@ analytical literature, speculative science fiction, chess, sketching, music,
 and strategic sports—not simply as hobbies, but as complementary ways of
 studying patterns, creativity, and the complex interactions that shape reality.
 
-</td>
-
-</tr>
-</table>
-
 ---
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
 
