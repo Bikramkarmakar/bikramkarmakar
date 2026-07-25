@@ -66,6 +66,7 @@ Sustainable Energy, and Space Technology into one unified ecosystem."*
 
 # MISSION
 
+-------------------------------------------------------------------------------------
 </div>
 
 <!-- ====================================================================== -->
@@ -115,12 +116,14 @@ studying patterns, creativity, and the complex interactions that shape reality.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- ====================================================================== -->
-<!-- CIVILIZATION STACK                                                     -->
+<!-- ENGINEERING ECOSYSTEM                                                     -->
 <!-- ====================================================================== -->
 
 <div align="center">
 
 # ENGINEERING ECOSYSTEM
+
+------------------------------------------------------------
 
 </div>
 
@@ -154,6 +157,8 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 <div align="center">
 
 # TECHNICAL SKILLS
+
+--------------------------------------------
 
 </div>
 
