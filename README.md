@@ -59,7 +59,67 @@ Sustainable Energy, and Space Technology into one unified ecosystem."*
 
 ---
 
+<!-- ====================================================================== -->
+<!-- MISSION                                                                -->
+<!-- ====================================================================== -->
 
+<div align="center">
+
+# MISSION
+
+</div>
+
+<!-- ====================================================================== -->
+<!-- PROFILE PHOTO                                                          -->
+<!-- assets/Profile-Photo.jpg                                               -->
+<!-- ====================================================================== -->
+
+<table>
+<tr>
+
+<td width="28%" align="center">
+
+<img src="assets/Profile-Photo.jpg" width="220" alt="Bikram Karmakar"/>
+
+</td>
+
+<td width="72%" valign="top">
+
+Artificial Intelligence is the intelligence. Robotics and embedded
+cyber-physical systems are the physical embodiment. Distributed networks form
+the nervous system that connects them, while cybersecurity and cryptography
+establish trust and resilience. Advanced computing provides the computational
+power, sustainable energy enables continuous operation, and space serves as the
+ultimate proving ground.
+
+My vision is to integrate these disciplines into self-improving autonomous
+infrastructure capable of coordinating, protecting, and optimizing critical
+systems at planetary—and eventually interplanetary—scale.
+
+My long-term mission is to architect technologies that advance civilization
+through resilient, trustworthy, and scalable intelligence. In the near term, I
+focus on solving meaningful real-world problems that strengthen the knowledge,
+experience, and engineering foundation required to realize that vision.
+
+Because autonomous infrastructure must ultimately serve civilization, my
+technical work is informed by the broader systems that shape our world—from
+neuroscience and cognitive psychology to geopolitics, institutional economics,
+and complex adaptive systems. I believe the most transformative breakthroughs
+emerge at the intersection of disciplines, where engineering is guided by a
+deeper understanding of intelligence, strategy, human behavior, and rational
+decision-making.
+
+Beyond engineering, I continuously cultivate these perspectives through
+analytical literature, speculative science fiction, chess, sketching, music,
+and strategic sports—not simply as hobbies, but as complementary ways of
+studying patterns, creativity, and the complex interactions that shape reality.
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ---
 
