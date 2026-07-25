@@ -176,7 +176,55 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 
 ---
 
+<!-- ====================================================================== -->
+<!-- CURRENT FOCUS                                                          -->
+<!-- ====================================================================== -->
 
+<div align="center">
+
+# CURRENT FOCUS
+
+</div>
+
+<br>
+
+### 🟢 Near-Term
+
+- Artificial Intelligence
+- Agentic AI
+- Robotics
+- Distributed Systems
+- Embedded Systems
+- Cybersecurity
+- Open Source Software
+- Intelligent Automation
+- Computer Vision
+- Edge AI
+
+---
+
+### 🟡 Mid-Term
+
+- Trustworthy AI
+- Human-Robot Collaboration
+- Multi-Agent Systems
+- Autonomous Infrastructure
+- Secure Distributed Computing
+- Intelligent Sensor Networks
+
+---
+
+### 🔵 Long-Term
+
+- Self-improving Infrastructure
+- Planetary Computing
+- Autonomous Cities
+- Intelligent Energy Systems
+- Space-Based Networks
+- Interplanetary Communication
+- Civilization-Scale Engineering
+
+---
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
