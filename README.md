@@ -120,7 +120,7 @@ studying patterns, creativity, and the complex interactions that shape reality.
 
 <div align="center">
 
-# CIVILIZATION STACK
+# ENGINEERING ECOSYSTEM
 
 </div>
 
