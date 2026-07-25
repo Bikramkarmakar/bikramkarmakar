@@ -175,7 +175,6 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 - **Developer Tools:** Git, GitHub, VS Code, Linux, IBM SkillsBuild
 
 ---
-
 <!-- ====================================================================== -->
 <!-- CURRENT FOCUS                                                          -->
 <!-- ====================================================================== -->
@@ -188,7 +187,12 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 
 <br>
 
-### 🟢 Near-Term
+<table align="center" width="100%">
+<tr>
+
+<td width="31%" valign="top">
+
+## 🟢 Near-Term
 
 - Artificial Intelligence
 - Agentic AI
@@ -201,9 +205,17 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 - Computer Vision
 - Edge AI
 
----
+</td>
 
-### 🟡 Mid-Term
+<td width="3%" align="center" valign="middle">
+
+# ➜
+
+</td>
+
+<td width="31%" valign="top">
+
+## 🟡 Mid-Term
 
 - Trustworthy AI
 - Human-Robot Collaboration
@@ -212,9 +224,17 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 - Secure Distributed Computing
 - Intelligent Sensor Networks
 
----
+</td>
 
-### 🔵 Long-Term
+<td width="3%" align="center" valign="middle">
+
+# ➜
+
+</td>
+
+<td width="31%" valign="top">
+
+## 🔵 Long-Term
 
 - Self-improving Infrastructure
 - Planetary Computing
@@ -224,6 +244,12 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 - Interplanetary Communication
 - Civilization-Scale Engineering
 
+</td>
+
+</tr>
+</table>
+
+---
 ---
 
 
