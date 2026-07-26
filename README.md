@@ -175,88 +175,12 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 - **Developer Tools:** Git, GitHub, VS Code, Linux, IBM SkillsBuild
 
 ---
-<!-- ====================================================================== -->
-<!-- CURRENT FOCUS                                                          -->
-<!-- ====================================================================== -->
-
-<div align="center">
-
-# CURRENT FOCUS
-
-</div>
-
-<br>
-
-<table align="center" width="100%">
-<tr>
-
-<td width="31%" valign="top">
-
-## 🟢 Near-Term
-
-- Artificial Intelligence
-- Agentic AI
-- Robotics
-- Distributed Systems
-- Embedded Systems
-- Cybersecurity
-- Computer Vision
-- Edge AI
-- Open Source Software
-- Intelligent Automation
-
-</td>
-
-<td width="3%" align="center" valign="middle">
-
-# ➜
-
-</td>
-
-<td width="31%" valign="top">
-
-## 🟡 Mid-Term
-
-- Trustworthy AI
-- Human-Robot Collaboration
-- Multi-Agent Systems
-- Autonomous Infrastructure
-- Secure Distributed Computing
-- Intelligent Sensor Networks
-- Advanced Computing
-- Sustainable Energy Systems
-- Edge Robotics
-- Intelligent Decision Systems
-
-</td>
-
-<td width="3%" align="center" valign="middle">
-
-# ➜
-
-</td>
-
-<td width="31%" valign="top">
-
-## 🔵 Long-Term
-
-- Self-improving Infrastructure
-- Planetary Computing
-- Autonomous Cities
-- Intelligent Energy Systems
-- Space-Based Networks
-- Interplanetary Communication
-- Civilization-Scale Engineering
-- Planetary Autonomous Systems
-- Human-AI Civilization
-- Space Infrastructure
-
-</td>
-
-</tr>
-</table>
-
----
+<p align="center">
+    <img
+        src="assets/Current-Focus.gif"
+        alt="Current Focus Roadmap"
+        width="100%">
+</p>
 ---
 
 
