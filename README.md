@@ -272,7 +272,7 @@ I am currently **open to internships, pre-placement offers (PPOs), research coll
 <!-- FOOTER                                                                 -->
 <!-- ====================================================================== -->
 
-<br><br>
+<br>
 
 <div align="center">
 
