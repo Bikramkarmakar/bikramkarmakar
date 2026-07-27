@@ -162,7 +162,7 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 
 <table width="100%">
 <tr>
-<td><strong>💻 Programming Languages:</strong></td>
+<td width="320" nowrap><strong>💻 Programming Languages:</strong></td>
 <td>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -175,7 +175,7 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 </tr>
 
 <tr>
-<td><strong>🌐 Web Technologies:</strong></td>
+<td width="320" nowrap><strong>🌐 Web Technologies:</strong></td>
 <td>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -186,7 +186,7 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 </tr>
 
 <tr>
-<td><strong>🧠 Artificial Intelligence:</strong></td>
+<td width="320" nowrap><strong>🧠 Artificial Intelligence:</strong></td>
 <td>
 
 <img src="https://img.shields.io/badge/Generative_AI-7B61FF?style=for-the-badge"/>
@@ -199,7 +199,7 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 </tr>
 
 <tr>
-<td><strong>⚙️ Core Computer Science:</strong></td>
+<td width="320" nowrap><strong>⚙️ Core Computer Science:</strong></td>
 <td>
 
 <img src="https://img.shields.io/badge/DSA-0066CC?style=for-the-badge"/>
@@ -212,7 +212,7 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 </tr>
 
 <tr>
-<td><strong>🛠️ Developer Tools:</strong></td>
+<td width="320" nowrap><strong>🛠️ Developer Tools:</strong></td>
 <td>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -233,8 +233,6 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
         alt="Current Focus Roadmap"
         width="100%">
 </p>
-
-
 
 
 
