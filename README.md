@@ -160,53 +160,70 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 
 </div>
 
-### 💻 Programming Languages
+<table width="100%">
+<tr>
+<td><strong>💻 Programming Languages:</strong></td>
+<td>
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### 🌐 Web Technologies
+</td>
+</tr>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<tr>
+<td><strong>🌐 Web Technologies:</strong></td>
+<td>
 
-### 🧠 Artificial Intelligence
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-7B61FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IBM_watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-</p>
+</td>
+</tr>
 
-### ⚙️ Core Computer Science
+<tr>
+<td><strong>🧠 Artificial Intelligence:</strong></td>
+<td>
 
-<p>
-  <img src="https://img.shields.io/badge/DSA-0066CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-2C3E50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-607D8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer_Networks-0097A7?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Generative_AI-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IBM_watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 
-### 🛠️ Developer Tools
+</td>
+</tr>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/IBM_SkillsBuild-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
-</p>
+<tr>
+<td><strong>⚙️ Core Computer Science:</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/DSA-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-2C3E50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_Systems-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-0097A7?style=for-the-badge"/>
+
+</td>
+</tr>
+
+<tr>
+<td><strong>🛠️ Developer Tools:</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/IBM_SkillsBuild-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
