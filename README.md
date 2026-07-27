@@ -114,6 +114,41 @@ studying patterns, creativity, and the complex interactions that shape reality.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- ======================= AVAILABLE FOR WORK ======================= -->
+
+<div align="center">
+
+# 💼 Available for Internships & PPO
+
+I am currently **open to internships, pre-placement offers (PPOs), research collaborations, and exciting opportunities** in **Artificial Intelligence, Software Engineering, Robotics, Embedded Systems, Cybersecurity, and Full-Stack Development.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/bikram-karmakar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/PrimarchSystem" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+<a href="https://www.researchgate.net/profile/Bikram-Karmakar-2" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+
+</div>
+
+<!-- ================================================================ -->
+
+
+
+<!-- ====================================================================== -->
+<!-- FOOTER                                                                 -->
+<!-- ====================================================================== -->
+
+<br>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=3FA9F5&center=true&vCenter=true&width=1450&lines=Building+intelligent+systems+that+scale+from+embedded+devices+to+planetary+infrastructure.;Artificial+Intelligence+%7C+Robotics+%7C+Cybersecurity+%7C+Embedded+Systems.;Engineering+resilient,+trustworthy,+and+autonomous+technologies+for+the+future.;Always+learning.+Always+building.+Always+exploring.)](https://git.io/typing-svg)
+
+</div>
+
+
+
+
 
 <!-- ====================================================================== -->
 <!-- ENGINEERING ECOSYSTEM                                                     -->
@@ -248,48 +283,13 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 
 <!-- =========================================================== -->
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-<!-- ======================= AVAILABLE FOR WORK ======================= -->
-
-<div align="center">
-
-# 💼 Available for Internships & PPO
-
-I am currently **open to internships, pre-placement offers (PPOs), research collaborations, and exciting opportunities** in **Artificial Intelligence, Software Engineering, Robotics, Embedded Systems, Cybersecurity, and Full-Stack Development.**
-
-<br>
-
-<a href="https://www.linkedin.com/in/bikram-karmakar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/PrimarchSystem" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-<a href="https://www.researchgate.net/profile/Bikram-Karmakar-2" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
-
-</div>
-
-<!-- ================================================================ -->
 
 
+<p>
+<img align="left" src="https://komarev.com/ghpvc/?username=Bikramkarmakar&style=for-the-badge&color=0e75b6"/>
 
-<!-- ====================================================================== -->
-<!-- FOOTER                                                                 -->
-<!-- ====================================================================== -->
-
-<br>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=3FA9F5&center=true&vCenter=true&width=1450&lines=Building+intelligent+systems+that+scale+from+embedded+devices+to+planetary+infrastructure.;Artificial+Intelligence+%7C+Robotics+%7C+Cybersecurity+%7C+Embedded+Systems.;Engineering+resilient,+trustworthy,+and+autonomous+technologies+for+the+future.;Always+learning.+Always+building.+Always+exploring.)](https://git.io/typing-svg)
-
-</div>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Thanks for visiting my profile.**
-
-More projects, research, and engineering work will continue to be added as this
-journey progresses.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
+<b><p align="right">Made with ❤️</p></b>
+</p>
 
 <!--
 
