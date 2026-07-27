@@ -237,20 +237,7 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 
 
 
-<!-- ======================= SOCIALS ======================= -->
 
-<h2>🌐 Socials</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/bikram-karmakar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/PrimarchSystem" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-  <a href="https://www.researchgate.net/profile/Bikram-Karmakar-2" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
-</p>
-
-<!-- ======================================================= -->
-
-
------------------------------------------------
 <!-- ======================= GITHUB STATS ======================= -->
 <p align="center">
   <img
@@ -261,6 +248,25 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 
 <!-- =========================================================== -->
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- ======================= AVAILABLE FOR WORK ======================= -->
+
+<div align="center">
+
+# 💼 Available for Internships & PPO
+
+I am currently **open to internships, pre-placement offers (PPOs), research collaborations, and exciting opportunities** in **Artificial Intelligence, Software Engineering, Robotics, Embedded Systems, Cybersecurity, and Full-Stack Development.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/bikram-karmakar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/PrimarchSystem" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+<a href="https://www.researchgate.net/profile/Bikram-Karmakar-2" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+
+</div>
+
+<!-- ================================================================ -->
+
+
 
 <!-- ====================================================================== -->
 <!-- FOOTER                                                                 -->
