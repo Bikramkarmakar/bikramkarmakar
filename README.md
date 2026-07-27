@@ -272,14 +272,13 @@ I am currently **open to internships, pre-placement offers (PPOs), research coll
 <!-- FOOTER                                                                 -->
 <!-- ====================================================================== -->
 
-<br><br><br><br><br>
+<br><br>
 
 <div align="center">
 
-*"Building intelligent systems that scale from embedded devices to planetary
-infrastructure."*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=3FA9F5&center=true&vCenter=true&width=1450&lines=Building+intelligent+systems+that+scale+from+embedded+devices+to+planetary+infrastructure.;Artificial+Intelligence+%7C+Robotics+%7C+Cybersecurity+%7C+Embedded+Systems.;Engineering+resilient,+trustworthy,+and+autonomous+technologies+for+the+future.;Always+learning.+Always+building.+Always+exploring.)](https://git.io/typing-svg)
 
-<br>
+</div>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -290,7 +289,7 @@ journey progresses.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-</div>
+
 
 <!--
 
