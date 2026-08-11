@@ -262,13 +262,6 @@ complex real-world challenges at planetary—and eventually interplanetary—sca
 
 ---
 
-<p align="center">
-    <img
-        src="assets/Current-Focus.gif"
-        alt="Current Focus Roadmap"
-        width="100%">
-</p>
-
 
 
 
