@@ -88,7 +88,7 @@ I am currently **open to internships, pre-placement offers (PPOs), research coll
 <br>
 
 <a href="https://www.linkedin.com/in/bikram-karmakar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/PrimarchSystem" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+<a href="https://x.com/ibikramkarmakar" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 
 
 </div>
