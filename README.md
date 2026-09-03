@@ -43,9 +43,9 @@ Do NOT remove comments unless necessary.
 
 <br>
 
-*"Engineering resilient intelligent systems that connect Artificial Intelligence,
-Cyber-Physical Systems, Robotics, Distributed Networks, Secure Computing,
-Sustainable Energy, and Space Technology into one unified ecosystem."*
+*As autonomous systems become increasingly capable of perceiving their surroundings, reasoning, and acting in the physical world, they rely on a foundational infrastructure: AI/ML provides intelligence, robotics gives that intelligence a physical form, and cybersecurity keeps these systems secure and trustworthy across environments — from our cities to space.*
+
+*That vision is what draws me to these fields today. I’m a final-year undergraduate student in Information Technology, exploring AI/ML, cybersecurity, robotics and autonomous systems, and space — learning how they work, following the people and developments pushing them forward, exploring new technologies, participating in technical communities, experimenting wherever I can, and gradually building the skills to contribute.*
 
 <br>
 
