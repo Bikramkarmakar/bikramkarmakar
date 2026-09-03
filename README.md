@@ -39,7 +39,7 @@ Do NOT remove comments unless necessary.
 
 # Bikram Karmakar
 
-### Architecting Civilization-Scale Autonomous Infrastructure
+### IT Undergraduate | AI/ML | Cybersecurity | Robotics & Autonomous Systems |  Space & Emerging Technology
 
 <br>
 
