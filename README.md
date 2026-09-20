@@ -84,29 +84,31 @@ Do NOT remove comments unless necessary.
 # 💼 Available for Internships & PPO
 
 I am currently **open to internships, pre-placement offers (PPOs), research collaborations, and exciting opportunities** in **Artificial Intelligence, Software Engineering, Robotics, Embedded Systems, Cybersecurity, and Full-Stack Development.**
-
 <br>
+### 🌐 Connect with me
 
-<a href="https://www.linkedin.com/in/bikram-karmakar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/ibikramkarmakar" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-
+<a href="https://www.linkedin.com/in/bikram-karmakar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://x.com/ibikramkarmakar" target="_blank">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 
 </div>
 
 <!-- ================================================================ -->
-
-
-
-<!-- ====================================================================== -->
-<!-- FOOTER                                                                 -->
 <!-- ====================================================================== -->
 
 <br>
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=3FA9F5&center=true&vCenter=true&width=1450&lines=Building+intelligent+systems+that+scale+from+embedded+devices+to+planetary+infrastructure.;Artificial+Intelligence+%7C+Robotics+%7C+Cybersecurity+%7C+Embedded+Systems.;Engineering+resilient,+trustworthy,+and+autonomous+technologies+for+the+future.;Always+learning.+Always+building.+Always+exploring.)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duration=3000&pause=1200&color=3FA9F5&center=true&vCenter=true&width=1450&lines=AI%2FML;Cybersecurity;Robotics+%26+Autonomous+Systems;Space+%26+Emerging+Technology;Open+Source;Sustainable+Energy;Distributed+Systems+%26+Advanced+Computing" />
+  <br>
+  <span style="font-family:monospace;font-size:20px;font-weight:500;color:#3FA9F5;">
+    Always learning. Always building. Always exploring.
+  </span>
+</p>
 </div>
 
 
@@ -119,33 +121,6 @@ I am currently **open to internships, pre-placement offers (PPOs), research coll
 
 <div align="center">
 
-# ENGINEERING ECOSYSTEM
-
-
-
-</div>
-
-<!-- ====================================================================== -->
-<!-- IMAGE                                                                  -->
-<!-- assets/Civilization-Stack.png                                          -->
-<!-- ====================================================================== -->
-
-<p align="center">
-    <img
-        src="assets/Civilization-Stack.png"
-        alt="Civilization Technology Stack"
-        width="100%">
-</p>
-
-<br>
-
-The technologies I pursue are not isolated domains, but interconnected layers
-of a single engineering ecosystem. Each layer builds upon the foundation below
-while enabling the capabilities above.
-
-Together, they represent my long-term vision of designing resilient,
-trustworthy, and self-improving autonomous infrastructure capable of solving
-complex real-world challenges at planetary—and eventually interplanetary—scale.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- ====================================================================== -->
